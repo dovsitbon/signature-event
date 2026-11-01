@@ -7,3 +7,6 @@ assets/raw/*.mp4
 /en/
 /index.html
 assets/videos/
+
+.vercel
+.env*
