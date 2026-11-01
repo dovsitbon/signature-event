@@ -1,0 +1,414 @@
+{
+  "lang": "fr",
+  "locale": "fr_FR",
+  "meta": {
+    "home": {
+      "title": "Location de matériel de réception à Rouen | Signature Event",
+      "description": "Location de vaisselle, chaises Napoléon et tables à Rouen, décoration de salle et traiteur halal sans alcool. Installation clé en main partout en Normandie."
+    },
+    "location": {
+      "title": "Location matériel mariage et vaisselle à Rouen | Signature Event",
+      "description": "Catalogue de location à Rouen avec prix : chaises Napoléon Crystal à 3 €, vaisselle liseré or dès 0,35 €, tables, arches, mur à cocktails. Livraison et installation en Normandie."
+    },
+    "decoration": {
+      "title": "Décoration mariage en Normandie, coin mariés | Signature Event",
+      "description": "Décoration de salle à Rouen et en Normandie : coin mariés à LED, arches fleuries et de ballons, coin photo, tables dressées. Installation et désinstallation comprises."
+    },
+    "traiteur": {
+      "title": "Traiteur halal sans alcool à Rouen | Signature Event",
+      "description": "Traiteur halal et sans alcool à Rouen pour mariages, fiançailles et réceptions privées. Bar à pancakes et bar à gourmandises, avec la décoration et le matériel."
+    },
+    "realisations": {
+      "title": "Mariages et réceptions en Normandie | Signature Event",
+      "description": "Mariages en salle, sous tente ou à la maison, anniversaires, baptêmes : les réceptions installées par Signature Event à Rouen et en Normandie."
+    },
+    "legal": {
+      "title": "Mentions légales | Signature Event",
+      "description": "Mentions légales et politique de confidentialité du site Signature Event."
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "rental": "Location",
+    "decor": "Décoration",
+    "catering": "Traiteur",
+    "work": "Réalisations",
+    "contact": "Contact",
+    "quote": "Demander un devis",
+    "cart": "Ma sélection",
+    "menu": "Menu",
+    "close": "Fermer",
+    "skip": "Aller au contenu",
+    "langLabel": "Langue",
+    "main": "Navigation principale"
+  },
+  "intro": {
+    "skip": "Passer",
+    "brand": "Signature Event",
+    "tagline": "L'art de recevoir, le goût de l'excellence."
+  },
+  "hero": {
+    "eyebrow": "Location de matériel, décoration et traiteur à Rouen et en Normandie",
+    "title": "L'art de recevoir, le goût de l'excellence.",
+    "sub": "Le matériel, la décoration et le repas de votre réception, livrés et installés par la même équipe.",
+    "ctaCatalogue": "Voir le catalogue",
+    "ctaQuote": "Demander un devis",
+    "scroll": "Défiler"
+  },
+  "trust": [
+    "Location à petit prix",
+    "Installation clé en main",
+    "Traiteur halal et sans alcool",
+    "Rouen et toute la Normandie"
+  ],
+  "services": {
+    "kicker": "Nos services",
+    "title": "Un seul prestataire, du premier carton à la dernière chaise rangée",
+    "intro": "Vous pouvez louer une pile d'assiettes pour un repas de famille ou nous confier toute la salle. Dans les deux cas, on s'occupe du transport.",
+    "items": [
+      {
+        "title": "Location",
+        "text": "Chaises Napoléon, tables, vaisselle liseré or, arches et structures, avec les prix affichés.",
+        "link": "Parcourir le catalogue"
+      },
+      {
+        "title": "Décoration",
+        "text": "Coin mariés, arches fleuries ou de ballons, coin photo, tables dressées à vos couleurs.",
+        "link": "Voir les décors"
+      },
+      {
+        "title": "Traiteur",
+        "text": "Une cuisine halal et sans alcool, servie dans notre vaisselle, sur nos buffets.",
+        "link": "Découvrir le traiteur"
+      },
+      {
+        "title": "Animations gourmandes",
+        "text": "Le bar à pancakes, notre nouveauté, et le bar à gourmandises avec ses bonbonnières.",
+        "link": "Voir les animations"
+      }
+    ]
+  },
+  "catalogue": {
+    "kicker": "Location",
+    "title": "Le catalogue",
+    "intro": "Tous nos articles avec leur prix de location. Composez votre sélection, nous confirmons la disponibilité et vous envoyons le devis avec la livraison.",
+    "featuredKicker": "Les plus demandés",
+    "seeAll": "Voir tout le catalogue",
+    "all": "Tout",
+    "filters": "Catégories",
+    "count": "{n} articles",
+    "add": "Ajouter à ma sélection",
+    "added": "Ajouté",
+    "askPrice": "Demander le prix",
+    "onRequest": "Prix sur demande",
+    "from": "à partir de",
+    "qty": "Quantité",
+    "less": "Retirer un",
+    "more": "Ajouter un",
+    "units": {
+      "unit": "l'unité",
+      "pair": "les 2",
+      "set": "le lot",
+      "guest": "par personne",
+      "weekend": "le week-end"
+    },
+    "qtyUnits": {
+      "unit": "",
+      "pair": "lot(s) de 2",
+      "set": "lot(s)",
+      "guest": "personnes",
+      "weekend": ""
+    },
+    "cleaning": "Nettoyage de la vaisselle : {clean} € si elle est rendue propre, {dirty} € si elle est rendue sale.",
+    "hdPhoto": "Photo provisoire",
+    "pageTitle": "Location de matériel de réception à Rouen",
+    "pageIntro": "Mobilier, décoration, vaisselle et matériel traiteur pour vos mariages, fiançailles, baptêmes et anniversaires. Les prix sont à l'unité, hors livraison et installation, qui figurent sur votre devis."
+  },
+  "decor": {
+    "kicker": "Décoration",
+    "title": "Une salle vide le matin, une salle de fête le soir",
+    "intro": "Coin mariés à LED, arches fleuries, arches de ballons, coin photo, tables dressées : on compose le décor avec vous, on l'installe avant l'arrivée des invités et on le démonte après.",
+    "before": "Avant",
+    "after": "Après",
+    "compare": "Faites glisser pour comparer",
+    "compareLabel": "Comparer avant et après",
+    "pairs": [
+      "Salle de réception"
+    ],
+    "items": [
+      "Coin mariés oriental",
+      "Coin mariés sous tente",
+      "Coin photo, arches fleuries",
+      "Arche au prénom",
+      "Coin mariés, décor à LED",
+      "Arche cœur",
+      "Serviettes bordeaux",
+      "Table rose poudré"
+    ],
+    "cta": "Parlez-nous de votre décor",
+    "pageTitle": "Décoration de mariage et de réception en Normandie",
+    "pageIntro": "Nous décorons les salles de Rouen et de toute la Normandie, mais aussi les tentes et les maisons pour les mariages en petit comité.",
+    "listTitle": "Ce que nous installons",
+    "list": [
+      "Coin mariés et décor à LED",
+      "Arches fleuries et arches de ballons",
+      "Coin photo",
+      "Tables dressées, nappes et centres de table",
+      "Mur à cocktails et bar à gourmandises",
+      "Colonnes lumineuses à LED"
+    ],
+    "note": "à vos couleurs"
+  },
+  "catering": {
+    "kicker": "Traiteur",
+    "title": "Une table généreuse, halal et sans alcool",
+    "intro": "Notre service traiteur accompagne vos mariages, fiançailles et réceptions privées. La cuisine est halal, sans alcool, et arrive avec la vaisselle et les buffets : vous n'avez qu'un interlocuteur.",
+    "halal": "Halal",
+    "noAlcohol": "Sans alcool",
+    "menu": "Menus et tarifs sur devis, selon le nombre d'invités et le format (buffet, service à table, cocktail).",
+    "pancakeBadge": "Nouveauté",
+    "pancakeTitle": "Le bar à pancakes",
+    "pancakeText": "Des pancakes préparés sur place et un comptoir de garnitures où chacun compose le sien. Il plaît autant aux enfants qu'aux adultes, du brunch au dessert.",
+    "sweetsTitle": "Le bar à gourmandises",
+    "sweetsText": "Deux arches à étagères, des bonbonnières remplies à vos couleurs.",
+    "cta": "Demander un devis traiteur",
+    "pageTitle": "Traiteur halal et sans alcool à Rouen",
+    "pageIntro": "Un traiteur qui livre aussi la vaisselle, les chauffe-plats et la décoration : c'est plus simple pour vous et l'ensemble garde la même allure."
+  },
+  "backstage": {
+    "kicker": "Coulisses",
+    "seen": "Ce que vous voyez le jour J…",
+    "unseen": "Ce que vous ne voyez pas",
+    "text": "Des heures de préparation, une organisation minutieuse et chaque détail pensé avec soin. Du chargement du matériel à la mise en place, jusqu'à la décoration finale.",
+    "steps": [
+      "Chargement",
+      "Livraison",
+      "Mise en place",
+      "Décoration finale"
+    ],
+    "video": "Vidéo : du chargement du camion à la table dressée",
+    "pause": "Mettre la vidéo en pause",
+    "play": "Lire la vidéo"
+  },
+  "work": {
+    "kicker": "Réalisations",
+    "title": "Quelques réceptions installées par l'équipe",
+    "intro": "En salle, sous tente ou à la maison, à Rouen et un peu partout en Normandie.",
+    "filters": {
+      "all": "Tout",
+      "mariage": "Mariage",
+      "anniversaire": "Anniversaire",
+      "bapteme": "Baptême",
+      "gender-reveal": "Gender reveal",
+      "mariage-maison": "Mariage à la maison"
+    },
+    "seeAll": "Toutes les réalisations",
+    "open": "Agrandir la photo",
+    "close": "Fermer",
+    "prev": "Photo précédente",
+    "next": "Photo suivante",
+    "pageTitle": "Nos réalisations",
+    "pageIntro": "Des mariages, des anniversaires et des baptêmes que nous avons équipés et décorés. Suivez-nous sur Instagram pour voir les plus récents."
+  },
+  "steps": {
+    "kicker": "Comment ça marche",
+    "title": "Trois étapes, et vous profitez",
+    "items": [
+      {
+        "title": "Vous choisissez",
+        "text": "Votre matériel dans le catalogue, ou décrivez-nous simplement votre événement."
+      },
+      {
+        "title": "Nous vous envoyons un devis",
+        "text": "Avec la disponibilité, la livraison et l'installation, sans surprise."
+      },
+      {
+        "title": "Nous livrons, installons, désinstallons",
+        "text": "Le jour J, tout est en place. Le lendemain, on remballe."
+      }
+    ]
+  },
+  "reviews": {
+    "kicker": "Vos retours",
+    "title": "Ils nous ont confié leur réception",
+    "intro": "Les avis de nos clients sont publiés dans la story « Vos retours » sur Instagram.",
+    "link": "Lire les retours sur Instagram"
+  },
+  "faq": {
+    "kicker": "Infos pratiques",
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "q": "Faut-il verser une caution ?",
+        "a": "Une caution peut être demandée selon le matériel loué. Son montant et ses modalités sont indiqués sur votre devis."
+      },
+      {
+        "q": "Comment se passe le retour du matériel ?",
+        "a": "Lorsque nous installons, nous désinstallons et reprenons le matériel nous-mêmes. En cas de retrait, le jour et l'heure du retour sont fixés à la réservation."
+      },
+      {
+        "q": "Livrez-vous en dehors de Rouen ?",
+        "a": "Oui, partout en Normandie. Les frais de livraison dépendent de la distance et du volume ; ils figurent sur le devis."
+      },
+      {
+        "q": "Combien de temps à l'avance réserver ?",
+        "a": "Le plus tôt possible pour les week-ends de mariage, surtout de mai à septembre. Pour une petite location, quelques jours suffisent souvent : écrivez-nous pour vérifier la disponibilité."
+      },
+      {
+        "q": "Dois-je laver la vaisselle avant de la rendre ?",
+        "a": "Ce n'est pas obligatoire. Le nettoyage est facturé 5 € si la vaisselle est rendue propre et 8 € si elle est rendue sale."
+      },
+      {
+        "q": "Le traiteur est-il halal ?",
+        "a": "Oui, le service traiteur est halal et sans alcool."
+      }
+    ]
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Racontez-nous votre événement",
+    "intro": "Remplissez ce formulaire : il ouvre WhatsApp avec votre message déjà rédigé. Vous pouvez aussi nous appeler.",
+    "type": "Type d'événement",
+    "types": [
+      "Mariage",
+      "Fiançailles",
+      "Baptême",
+      "Anniversaire",
+      "Gender reveal / baby shower",
+      "Mariage à la maison",
+      "Événement professionnel",
+      "Autre"
+    ],
+    "date": "Date",
+    "place": "Lieu (ville ou salle)",
+    "guests": "Nombre d'invités",
+    "services": "Services souhaités",
+    "serviceOptions": [
+      "Location de matériel",
+      "Décoration",
+      "Traiteur",
+      "Animations gourmandes"
+    ],
+    "message": "Votre message",
+    "messagePh": "Thème, couleurs, ce que vous avez déjà…",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "send": "Envoyer sur WhatsApp",
+    "required": "Champ obligatoire",
+    "callUs": "Appelez-nous",
+    "follow": "Suivez-nous",
+    "zone": "Rouen et toute la Normandie",
+    "waIntro": "Bonjour Signature Event, je souhaite un devis.",
+    "waLabels": {
+      "type": "Événement",
+      "date": "Date",
+      "place": "Lieu",
+      "guests": "Invités",
+      "services": "Services",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "message": "Message"
+    }
+  },
+  "cart": {
+    "title": "Ma sélection",
+    "empty": "Votre sélection est vide. Ajoutez des articles depuis le catalogue.",
+    "browse": "Parcourir le catalogue",
+    "total": "Total estimé",
+    "totalNote": "Hors livraison, installation et articles sur devis. Le devis final vous est envoyé après vérification de la disponibilité.",
+    "remove": "Retirer",
+    "event": "Votre événement",
+    "date": "Date de l'événement",
+    "place": "Lieu (ville ou salle)",
+    "mode": "Livraison ou retrait",
+    "delivery": "Livraison et installation",
+    "pickup": "Retrait sur place",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "notes": "Précisions (facultatif)",
+    "sendWa": "Envoyer ma demande",
+    "sendWaSub": "par WhatsApp",
+    "sendMail": "Envoyer par email",
+    "sending": "Envoi…",
+    "sent": "Demande envoyée. Nous vous répondons rapidement.",
+    "error": "L'envoi a échoué. Utilisez WhatsApp ou appelez-nous.",
+    "pay": "Payer l'acompte en ligne",
+    "items": "{n} article(s)",
+    "added": "{name} ajouté à votre sélection",
+    "waIntro": "Bonjour Signature Event, voici ma demande de réservation :",
+    "waTotal": "Total estimé",
+    "waLabels": {
+      "date": "Date",
+      "place": "Lieu",
+      "mode": "Livraison",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "notes": "Précisions"
+    },
+    "askPriceMsg": "Bonjour Signature Event, pouvez-vous m'indiquer le prix de location de : {name} ?"
+  },
+  "footer": {
+    "signature": "L'art de recevoir, le goût de l'excellence.",
+    "slogan": "Faire de chaque instant une célébration inoubliable",
+    "zone": "Rouen et toute la Normandie",
+    "explore": "Explorer",
+    "contact": "Contact",
+    "legal": "Mentions légales",
+    "rights": "Tous droits réservés.",
+    "events": "Mariages · Fiançailles · Baptêmes · Anniversaires · Gender reveal · Baby shower · Événements professionnels"
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "editorTitle": "Éditeur du site",
+    "editor": "SIGNATURE EVENT — Rouen (76). Raison sociale, adresse et numéro SIRET à compléter. Téléphone : 07 83 53 58 11.",
+    "hostTitle": "Hébergement",
+    "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis.",
+    "dataTitle": "Données personnelles",
+    "data": "Les informations saisies dans les formulaires servent uniquement à préparer votre devis. Elles sont transmises par WhatsApp ou par email au moment où vous les envoyez et ne sont pas stockées sur ce site. Votre sélection est conservée dans votre navigateur. Vous pouvez demander la suppression de vos données en nous contactant.",
+    "photosTitle": "Photos",
+    "photos": "Toutes les photos sont celles des réalisations de Signature Event.",
+    "back": "Retour à l'accueil"
+  },
+  "wa": {
+    "float": "Écrire sur WhatsApp",
+    "default": "Bonjour Signature Event, j'aimerais des informations pour mon événement."
+  },
+  "media": {
+    "hero": "Salle de réception dressée par Signature Event, tables rondes et chaises Napoléon",
+    "services": [
+      "Chaises Napoléon Crystal autour de tables nappées bordeaux",
+      "Coin mariés oriental éclairé",
+      "Buffet de mignardises et de verrines",
+      "Bar à pancakes Signature Event et ses garnitures"
+    ],
+    "decor": [
+      "Coin mariés oriental avec arches lumineuses",
+      "Coin mariés sous tente, drapé bordeaux",
+      "Coin photo avec arches fleuries roses et blanches",
+      "Arche personnalisée au prénom de l'invitée d'honneur",
+      "Coin mariés avec panneaux à LED",
+      "Grande arche en forme de cœur",
+      "Serviettes bordeaux pliées sur assiettes liseré or",
+      "Table rose poudré, assiettes liseré or et fleurs"
+    ],
+    "pairs": [
+      [
+        "Salle vide avant l'installation",
+        "La même salle dressée pour la réception"
+      ]
+    ],
+    "catering": [
+      "Buffet de pièces salées et sucrées",
+      "Bar à pancakes et ses garnitures",
+      "Table dressée, vaisselle liseré or"
+    ],
+    "backstage": [
+      "Piles d'assiettes prêtes au chargement",
+      "Fleurs et décor emballés pour le transport",
+      "Chaises Napoléon chargées dans le camion",
+      "Mise en place des chaises dans la salle",
+      "Détail d'une table terminée"
+    ],
+    "logo": "Signature Event"
+  }
+}

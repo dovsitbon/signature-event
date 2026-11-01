@@ -1,0 +1,221 @@
+{
+  "settings": {
+    "currency": "EUR",
+    "whatsapp": "33783535811",
+    "stripeEnabled": false,
+    "depositPercent": 30,
+    "cleaning": { "clean": 5, "dirty": 8 }
+  },
+  "categories": [
+    { "id": "mobilier", "name": { "fr": "Mobilier et structures", "en": "Furniture and structures" } },
+    { "id": "decoration", "name": { "fr": "Décoration", "en": "Decor" } },
+    { "id": "vaisselle", "name": { "fr": "Vaisselle et art de la table", "en": "Tableware" } },
+    { "id": "traiteur", "name": { "fr": "Matériel traiteur", "en": "Catering equipment" } }
+  ],
+  "products": [
+    {
+      "id": "chaise-napoleon-crystal", "category": "mobilier", "source": "DU_GWF1jPXE", "featured": true,
+      "price": 3, "unit": "unit",
+      "name": { "fr": "Chaise Napoléon Crystal", "en": "Napoleon Crystal chair" },
+      "description": { "fr": "Transparente, livrée avec sa galette blanche.", "en": "Clear acrylic, supplied with a white seat cushion." }
+    },
+    {
+      "id": "chaise-des-maries", "category": "mobilier", "source": "DdhnOd-Ibyl",
+      "price": 6, "unit": "unit",
+      "name": { "fr": "Chaise des mariés", "en": "Bride and groom chair" },
+      "description": { "fr": "Dossier médaillon, structure dorée, assise blanche.", "en": "Medallion back, gold frame, white seat." }
+    },
+    {
+      "id": "fauteuil-des-maries", "category": "mobilier", "source": "Dc1uRnSIEtv",
+      "price": null, "unit": "unit",
+      "name": { "fr": "Fauteuil des mariés", "en": "Bride and groom sofa" },
+      "description": { "fr": "Banquette arrondie blanche, avec rideaux en option.", "en": "Curved white loveseat, drapes available." }
+    },
+    {
+      "id": "coin-maries-led", "category": "mobilier", "source": "Dc1uAb8Iz-v", "featured": true,
+      "price": null, "unit": "set",
+      "name": { "fr": "Coin mariés, décor à LED", "en": "Bridal stage with LED backdrop" },
+      "description": { "fr": "Panneaux lumineux sculptés, fauteuil des mariés au choix.", "en": "Carved illuminated panels, choice of sofa." }
+    },
+    {
+      "id": "table-ronde", "category": "mobilier", "source": "DU_dnOWjSrm",
+      "price": 10, "unit": "unit", "dims": "8 / 10 pers.",
+      "name": { "fr": "Table ronde", "en": "Round table" },
+      "description": { "fr": "Pour 8 à 10 convives.", "en": "Seats 8 to 10 guests." }
+    },
+    {
+      "id": "table-rectangulaire", "category": "mobilier", "source": "DVB6rC9jH7W",
+      "price": 10, "unit": "unit", "dims": "6 / 8 pers.",
+      "name": { "fr": "Table rectangulaire", "en": "Rectangular table" },
+      "description": { "fr": "Pour 6 à 8 convives, idéale en table d'honneur.", "en": "Seats 6 to 8, ideal as a top table." }
+    },
+    {
+      "id": "tonnelle-barnum", "category": "mobilier", "source": "DVdjICMDFnI",
+      "price": 110, "unit": "unit", "dims": "8 × 6 × 2,66 m",
+      "name": { "fr": "Tonnelle / barnum", "en": "Marquee tent" },
+      "description": { "fr": "65 personnes debout, 45 à 50 assises.", "en": "65 standing, 45 to 50 seated." }
+    },
+    {
+      "id": "structure-rideau", "category": "mobilier", "source": "DW64hyAjJkt",
+      "price": 15, "unit": "unit", "dims": "3 × 3 m",
+      "name": { "fr": "Structure avec rideau blanc", "en": "Frame with white drape" },
+      "description": { "fr": "Fond de scène, coin photo ou coin mariés.", "en": "For a backdrop, photo corner or bridal stage." }
+    },
+    {
+      "id": "comptoir-bar", "category": "mobilier", "source": "DaK80wgKQj2",
+      "price": 35, "unit": "unit", "dims": "90 cm",
+      "name": { "fr": "Comptoir / bar", "en": "Bar counter" },
+      "description": { "fr": "Aussi utilisable en candy bar.", "en": "Doubles as a candy bar." }
+    },
+    {
+      "id": "pupitre-blanc", "category": "mobilier", "source": "DaLuqCxIVmQ",
+      "price": 25, "unit": "unit", "dims": "1,20 m",
+      "name": { "fr": "Pupitre blanc", "en": "White lectern" },
+      "description": { "fr": "Pour le livre d'or ou les discours.", "en": "For the guest book or speeches." }
+    },
+    {
+      "id": "arche-180", "category": "decoration", "source": "DYhDMEetWXz",
+      "price": 15, "unit": "unit", "dims": "1,80 m × 80 cm",
+      "name": { "fr": "Arche dorée", "en": "Gold arch" },
+      "description": { "fr": "Housse sur demande.", "en": "Fabric cover on request." }
+    },
+    {
+      "id": "arche-coeur", "category": "decoration", "source": "DYhDBH2tqlq", "featured": true,
+      "price": 20, "unit": "unit", "dims": "2 m",
+      "name": { "fr": "Grande arche cœur", "en": "Large heart arch" },
+      "description": { "fr": "Structure dorée, à fleurir ou à habiller de ballons.", "en": "Gold frame, to dress with flowers or balloons." }
+    },
+    {
+      "id": "colonnes-led", "category": "decoration", "source": "DW-_9i8DLx2",
+      "price": 20, "unit": "pair", "dims": "1,20 m",
+      "name": { "fr": "Colonnes lumineuses à LED", "en": "LED light columns" },
+      "description": { "fr": "Vendues par deux, couleurs réglables.", "en": "Sold as a pair, adjustable colours." }
+    },
+    {
+      "id": "arbre-cerisier", "category": "decoration", "source": "DY0HhRyIbrD",
+      "price": 12, "unit": "unit", "dims": "1,25 m",
+      "name": { "fr": "Arbre cerisier blanc", "en": "White cherry blossom tree" },
+      "description": { "fr": "En centre de table ou de part et d'autre d'une allée.", "en": "As a centrepiece or lining an aisle." }
+    },
+    {
+      "id": "cube-baby", "category": "decoration", "source": "DXupMSbDLVZ",
+      "price": 7, "unit": "set",
+      "name": { "fr": "Cubes à ballons « BABY »", "en": "\"BABY\" balloon boxes" },
+      "description": { "fr": "Baby shower et gender reveal. Ballons non inclus.", "en": "Baby shower and gender reveal. Balloons not included." }
+    },
+    {
+      "id": "numeros-table", "category": "decoration", "source": "DV8ZzWdjMeK",
+      "price": 1.5, "unit": "unit",
+      "name": { "fr": "Numéro de table en plexiglas", "en": "Acrylic table number" },
+      "description": { "fr": "Chiffres dorés sur arche transparente.", "en": "Gold numbers on a clear arch." }
+    },
+    {
+      "id": "mur-cocktails", "category": "decoration", "source": "DXe6k79DPQs",
+      "price": 80, "unit": "weekend",
+      "name": { "fr": "Mur à cocktails, 5 étagères", "en": "Cocktail wall, 5 shelves" },
+      "description": { "fr": "Du vendredi au dimanche (ou lundi matin).", "en": "Friday to Sunday (or Monday morning)." }
+    },
+    {
+      "id": "mur-cocktails-blanc", "category": "decoration", "source": "DY2pO7DoSYX",
+      "price": 65, "unit": "unit",
+      "name": { "fr": "Mur à cocktails blanc « Servez-vous »", "en": "White \"Help yourself\" cocktail wall" },
+      "description": { "fr": "Arche blanche à étagères, à fleurir.", "en": "White shelved arch, ready for flowers." }
+    },
+    {
+      "id": "bar-gourmandises", "category": "decoration", "source": "DZmSjOKoDye",
+      "price": 35, "unit": "unit", "dims": "1,40 m × 80 cm",
+      "name": { "fr": "Bar à gourmandises", "en": "Sweet bar" },
+      "description": { "fr": "Avec deux sortes de bonbonnières.", "en": "With two styles of sweet jars." }
+    },
+    {
+      "id": "miroir-personnalisable", "category": "decoration", "source": "DUjLJWeDBxG",
+      "price": 35, "unit": "unit",
+      "name": { "fr": "Miroir personnalisable", "en": "Personalised welcome mirror" },
+      "description": { "fr": "Prénoms et date de votre choix, en lettres blanches.", "en": "Your names and date in white lettering." }
+    },
+    {
+      "id": "pack-vaisselle", "category": "vaisselle", "source": "DXPntbujGfC", "featured": true,
+      "price": 1, "unit": "guest", "from": true, "dims": "15 · 20 · 25 cm",
+      "name": { "fr": "Pack vaisselle, 3 assiettes liseré or", "en": "Gold-rim plate set, 3 plates" },
+      "description": { "fr": "Assiettes de 15, 20 et 25 cm par convive.", "en": "15, 20 and 25 cm plates per guest." }
+    },
+    {
+      "id": "assiette-19", "category": "vaisselle", "source": "DVB45EEjJM_",
+      "price": 0.35, "unit": "unit", "dims": "19 cm",
+      "name": { "fr": "Assiette ronde liseré or", "en": "Round gold-rim plate" },
+      "description": { "fr": "Entrée ou dessert.", "en": "Starter or dessert." }
+    },
+    {
+      "id": "assiette-26", "category": "vaisselle", "source": "DVB4nLnDFRq",
+      "price": 0.35, "unit": "unit", "dims": "26 cm",
+      "name": { "fr": "Grande assiette liseré or", "en": "Large gold-rim plate" },
+      "description": { "fr": "Assiette de présentation ou plat.", "en": "Charger or main course." }
+    },
+    {
+      "id": "assiette-plate", "category": "vaisselle", "source": "DVB4bMfjCEI",
+      "price": 0.35, "unit": "unit",
+      "name": { "fr": "Assiette plate en porcelaine fine", "en": "Fine porcelain dinner plate" },
+      "description": { "fr": "Forme carrée aux angles adoucis.", "en": "Soft-cornered square shape." }
+    },
+    {
+      "id": "assiette-creuse", "category": "vaisselle", "source": "DVB4iJSDP4Z",
+      "price": 0.35, "unit": "unit",
+      "name": { "fr": "Assiette creuse en porcelaine fine", "en": "Fine porcelain soup plate" },
+      "description": { "fr": "Assortie à l'assiette plate.", "en": "Matches the dinner plate." }
+    },
+    {
+      "id": "verres-crystal", "category": "vaisselle", "source": "DVB4QNODEPw",
+      "price": 0.35, "unit": "unit",
+      "name": { "fr": "Verres Crystal ciselés", "en": "Cut crystal glasses" },
+      "description": { "fr": "Verre à eau, verre à vin et verre à vin liseré or.", "en": "Water, wine and gold-rim wine glass." }
+    },
+    {
+      "id": "flute-verre", "category": "vaisselle", "source": "DXPoN6ODMR6",
+      "price": 0.35, "unit": "unit",
+      "name": { "fr": "Flûte en verre", "en": "Glass champagne flute" },
+      "description": { "fr": "Pour le vin d'honneur et le dessert.", "en": "For the reception and dessert." }
+    },
+    {
+      "id": "flute-plastique", "category": "vaisselle", "source": "DXRsAamjJcy",
+      "price": 0.15, "unit": "unit",
+      "name": { "fr": "Flûte incassable", "en": "Shatterproof flute" },
+      "description": { "fr": "En plastique rigide, pour l'extérieur.", "en": "Rigid plastic, for outdoor use." }
+    },
+    {
+      "id": "verre-eau", "category": "vaisselle", "source": "DYfRBKvNbQ_",
+      "price": 0.3, "unit": "unit",
+      "name": { "fr": "Verre à eau", "en": "Tumbler" },
+      "description": { "fr": "Gobelet en verre épais.", "en": "Heavy-base glass tumbler." }
+    },
+    {
+      "id": "verre-the", "category": "vaisselle", "source": "DYfRN3XtcxB",
+      "price": 0.2, "unit": "unit",
+      "name": { "fr": "Verre à thé", "en": "Tea glass" },
+      "description": { "fr": "Forme tulipe, pour le thé à la menthe.", "en": "Tulip shape, for mint tea." }
+    },
+    {
+      "id": "tasse-cafe", "category": "vaisselle", "source": "DXIHExkDL-K",
+      "price": 0.2, "unit": "unit",
+      "name": { "fr": "Tasse à café en verre", "en": "Glass coffee cup" },
+      "description": { "fr": "Transparente, avec anse.", "en": "Clear, with handle." }
+    },
+    {
+      "id": "nappe", "category": "vaisselle", "source": "DUI0Bm-DAbe",
+      "price": 5, "unit": "unit",
+      "name": { "fr": "Nappe blanche", "en": "White tablecloth" },
+      "description": { "fr": "Ronde ou rectangulaire.", "en": "Round or rectangular." }
+    },
+    {
+      "id": "chauffe-plat", "category": "traiteur", "source": "DVMaRUGDIU9",
+      "price": 20, "unit": "unit", "dims": "9 L",
+      "name": { "fr": "Chauffe-plat avec pince", "en": "Chafing dish with tongs" },
+      "description": { "fr": "Maintien au chaud pendant 4 h.", "en": "Keeps food hot for 4 hours." }
+    },
+    {
+      "id": "machine-glacons", "category": "traiteur", "source": "DXm9tBHjOA-",
+      "price": 25, "unit": "unit", "dims": "12 kg / 24 h",
+      "name": { "fr": "Machine à glaçons", "en": "Ice maker" },
+      "description": { "fr": "Deux tailles de glaçons, pelle incluse.", "en": "Two ice sizes, scoop included." }
+    }
+  ]
+}

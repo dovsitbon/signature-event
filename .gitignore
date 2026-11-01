@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env*
+.vercel/
+assets/raw/*.mp4
+/fr/
+/en/
+/index.html
+assets/videos/

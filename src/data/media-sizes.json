@@ -1,0 +1,543 @@
+{
+ "produits/arbre-cerisier": {
+  "w": 851,
+  "h": 1430,
+  "widths": [
+   480,
+   851
+  ]
+ },
+ "produits/arche-180": {
+  "w": 883,
+  "h": 1300,
+  "widths": [
+   480,
+   883
+  ]
+ },
+ "produits/arche-coeur": {
+  "w": 1115,
+  "h": 1293,
+  "widths": [
+   480,
+   960,
+   1115
+  ]
+ },
+ "produits/assiette-19": {
+  "w": 765,
+  "h": 1007,
+  "widths": [
+   480,
+   765
+  ]
+ },
+ "produits/assiette-26": {
+  "w": 747,
+  "h": 983,
+  "widths": [
+   480,
+   747
+  ]
+ },
+ "produits/assiette-creuse": {
+  "w": 863,
+  "h": 1005,
+  "widths": [
+   480,
+   863
+  ]
+ },
+ "produits/assiette-plate": {
+  "w": 952,
+  "h": 974,
+  "widths": [
+   480,
+   952
+  ]
+ },
+ "produits/bar-gourmandises": {
+  "w": 1673,
+  "h": 1433,
+  "widths": [
+   480,
+   960,
+   1440
+  ]
+ },
+ "produits/chaise-des-maries": {
+  "w": 747,
+  "h": 1232,
+  "widths": [
+   480,
+   747
+  ]
+ },
+ "produits/chaise-napoleon-crystal": {
+  "w": 853,
+  "h": 1075,
+  "widths": [
+   480,
+   853
+  ]
+ },
+ "produits/chauffe-plat": {
+  "w": 969,
+  "h": 720,
+  "widths": [
+   480,
+   960,
+   969
+  ]
+ },
+ "produits/coin-maries-led": {
+  "w": 1689,
+  "h": 920,
+  "widths": [
+   480,
+   960,
+   1440
+  ]
+ },
+ "produits/colonnes-led": {
+  "w": 842,
+  "h": 932,
+  "widths": [
+   480,
+   842
+  ]
+ },
+ "produits/comptoir-bar": {
+  "w": 1468,
+  "h": 1611,
+  "widths": [
+   480,
+   960,
+   1440
+  ]
+ },
+ "produits/cube-baby": {
+  "w": 1072,
+  "h": 1123,
+  "widths": [
+   480,
+   960,
+   1072
+  ]
+ },
+ "produits/fauteuil-des-maries": {
+  "w": 1115,
+  "h": 1476,
+  "widths": [
+   480,
+   960,
+   1115
+  ]
+ },
+ "produits/flute-plastique": {
+  "w": 385,
+  "h": 933,
+  "widths": [
+   385
+  ]
+ },
+ "produits/flute-verre": {
+  "w": 383,
+  "h": 932,
+  "widths": [
+   383
+  ]
+ },
+ "produits/machine-glacons": {
+  "w": 793,
+  "h": 885,
+  "widths": [
+   480,
+   793
+  ]
+ },
+ "produits/miroir-personnalisable": {
+  "w": 350,
+  "h": 974,
+  "widths": [
+   350
+  ]
+ },
+ "produits/mur-cocktails-blanc": {
+  "w": 1607,
+  "h": 1433,
+  "widths": [
+   480,
+   960,
+   1440
+  ]
+ },
+ "produits/mur-cocktails": {
+  "w": 798,
+  "h": 1196,
+  "widths": [
+   480,
+   798
+  ]
+ },
+ "produits/nappe": {
+  "w": 781,
+  "h": 931,
+  "widths": [
+   480,
+   781
+  ]
+ },
+ "produits/numeros-table": {
+  "w": 778,
+  "h": 1145,
+  "widths": [
+   480,
+   778
+  ]
+ },
+ "produits/pack-vaisselle": {
+  "w": 774,
+  "h": 747,
+  "widths": [
+   480,
+   774
+  ]
+ },
+ "produits/pupitre-blanc": {
+  "w": 1112,
+  "h": 1475,
+  "widths": [
+   480,
+   960,
+   1112
+  ]
+ },
+ "produits/structure-rideau": {
+  "w": 966,
+  "h": 914,
+  "widths": [
+   480,
+   960,
+   966
+  ]
+ },
+ "produits/table-rectangulaire": {
+  "w": 1073,
+  "h": 799,
+  "widths": [
+   480,
+   960,
+   1073
+  ]
+ },
+ "produits/table-ronde": {
+  "w": 820,
+  "h": 1076,
+  "widths": [
+   480,
+   820
+  ]
+ },
+ "produits/tasse-cafe": {
+  "w": 773,
+  "h": 747,
+  "widths": [
+   480,
+   773
+  ]
+ },
+ "produits/tonnelle-barnum": {
+  "w": 1014,
+  "h": 756,
+  "widths": [
+   480,
+   960,
+   1014
+  ]
+ },
+ "produits/verre-eau": {
+  "w": 772,
+  "h": 1028,
+  "widths": [
+   480,
+   772
+  ]
+ },
+ "produits/verre-the": {
+  "w": 771,
+  "h": 1027,
+  "widths": [
+   480,
+   771
+  ]
+ },
+ "produits/verres-crystal": {
+  "w": 916,
+  "h": 936,
+  "widths": [
+   480,
+   916
+  ]
+ },
+ "realisations/anniversaire-papillons": {
+  "w": 1086,
+  "h": 1448,
+  "widths": [
+   480,
+   960,
+   1086
+  ]
+ },
+ "realisations/chaises-napoleon-bordeaux": {
+  "w": 576,
+  "h": 879,
+  "widths": [
+   480,
+   576
+  ]
+ },
+ "realisations/mariage-maison-tables": {
+  "w": 720,
+  "h": 406,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "realisations/salle-miroir-bordeaux": {
+  "w": 576,
+  "h": 1024,
+  "widths": [
+   480,
+   576
+  ]
+ },
+ "realisations/salle-rose-bleu": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "realisations/salle-turquoise-chaises": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "realisations/salle-turquoise-dressage": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "realisations/salle-turquoise-tables-longues": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "realisations/salle-turquoise-tables-rondes": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "realisations/table-ballons-ourson": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "realisations/table-rose-poudre-detail": {
+  "w": 3024,
+  "h": 4032,
+  "widths": [
+   480,
+   960,
+   1440
+  ]
+ },
+ "realisations/table-rose-poudre": {
+  "w": 3024,
+  "h": 4032,
+  "widths": [
+   480,
+   960,
+   1440
+  ]
+ },
+ "realisations/tente-tables-bordeaux": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "realisations/tente-tables-chaises": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "realisations/tente-tapis-entree": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "decoration/coin-maries-oriental": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "decoration/coin-maries-tente": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "decoration/coin-photo-arche-prenom": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "decoration/coin-photo-arches-fleurs": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "decoration/maison-apres": {
+  "w": 720,
+  "h": 406,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "decoration/salle-apres": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "decoration/salle-avant": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "decoration/serviette-bordeaux": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "traiteur/bar-a-pancakes": {
+  "w": 1290,
+  "h": 1046,
+  "widths": [
+   480,
+   960,
+   1290
+  ]
+ },
+ "traiteur/buffet-affiche": {
+  "w": 640,
+  "h": 500,
+  "widths": [
+   480,
+   640
+  ]
+ },
+ "coulisses/chaises-chargement": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "coulisses/detail-table": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "coulisses/fleurs-caisses": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "coulisses/mise-en-place": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "coulisses/piles-assiettes": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "videos/coulisses": {
+  "w": 540,
+  "h": 960
+ },
+ "videos/hero-a": {
+  "w": 540,
+  "h": 960
+ },
+ "videos/hero-b": {
+  "w": 540,
+  "h": 960
+ },
+ "videos/hero-c": {
+  "w": 540,
+  "h": 960
+ }
+}

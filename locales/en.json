@@ -1,0 +1,414 @@
+{
+  "lang": "en",
+  "locale": "en_GB",
+  "meta": {
+    "home": {
+      "title": "Event Equipment Hire in Rouen, Normandy | Signature Event",
+      "description": "Tableware, Napoleon chair and table hire in Rouen, venue decoration and halal, alcohol-free catering. Delivered, set up and cleared away anywhere in Normandy."
+    },
+    "location": {
+      "title": "Wedding Equipment & Tableware Hire, Rouen | Signature Event",
+      "description": "Rental catalogue with prices: Napoleon Crystal chairs from €3, gold-rim tableware from €0.35, tables, arches, cocktail walls. Delivery and set-up across Normandy."
+    },
+    "decoration": {
+      "title": "Wedding Decor in Normandy, Bridal Stages | Signature Event",
+      "description": "Venue decoration in Rouen and Normandy: LED bridal stage, flower and balloon arches, photo corners, dressed tables. Set-up and take-down included."
+    },
+    "traiteur": {
+      "title": "Halal, Alcohol-Free Catering in Rouen | Signature Event",
+      "description": "Halal, alcohol-free catering in Rouen for weddings, engagements and private parties. Pancake bar and sweet bar, together with the decor and equipment."
+    },
+    "realisations": {
+      "title": "Weddings & Receptions in Normandy | Signature Event",
+      "description": "Weddings in venues, marquees or at home, birthdays and christenings: receptions set up by Signature Event in Rouen and across Normandy."
+    },
+    "legal": {
+      "title": "Legal notice | Signature Event",
+      "description": "Legal notice and privacy policy for the Signature Event website."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "rental": "Hire",
+    "decor": "Decor",
+    "catering": "Catering",
+    "work": "Our work",
+    "contact": "Contact",
+    "quote": "Request a quote",
+    "cart": "My selection",
+    "menu": "Menu",
+    "close": "Close",
+    "skip": "Skip to content",
+    "langLabel": "Language",
+    "main": "Main navigation"
+  },
+  "intro": {
+    "skip": "Skip",
+    "brand": "Signature Event",
+    "tagline": "The art of hosting, a taste for excellence."
+  },
+  "hero": {
+    "eyebrow": "Event hire, decor and catering in Rouen and Normandy",
+    "title": "The art of hosting, a taste for excellence.",
+    "sub": "Equipment, decoration and food for your reception, delivered and set up by one team.",
+    "ctaCatalogue": "Browse the catalogue",
+    "ctaQuote": "Request a quote",
+    "scroll": "Scroll"
+  },
+  "trust": [
+    "Affordable hire",
+    "Full set-up and take-down",
+    "Halal, alcohol-free catering",
+    "Rouen and all of Normandy"
+  ],
+  "services": {
+    "kicker": "What we do",
+    "title": "One supplier, from the first box unloaded to the last chair stacked",
+    "intro": "Hire a stack of plates for a family meal or hand us the whole venue. Either way, we take care of the transport.",
+    "items": [
+      {
+        "title": "Hire",
+        "text": "Napoleon chairs, tables, gold-rim tableware, arches and frames, with prices shown.",
+        "link": "Browse the catalogue"
+      },
+      {
+        "title": "Decor",
+        "text": "Bridal stage, flower or balloon arches, photo corner, tables dressed in your colours.",
+        "link": "See our decor"
+      },
+      {
+        "title": "Catering",
+        "text": "Halal, alcohol-free food, served on our tableware and buffets.",
+        "link": "Discover the catering"
+      },
+      {
+        "title": "Sweet stations",
+        "text": "Our new pancake bar, and the sweet bar with its candy jars.",
+        "link": "See the stations"
+      }
+    ]
+  },
+  "catalogue": {
+    "kicker": "Hire",
+    "title": "The catalogue",
+    "intro": "Every item with its hire price. Build your selection; we confirm availability and send a quote including delivery.",
+    "featuredKicker": "Most requested",
+    "seeAll": "See the full catalogue",
+    "all": "All",
+    "filters": "Categories",
+    "count": "{n} items",
+    "add": "Add to my selection",
+    "added": "Added",
+    "askPrice": "Ask for the price",
+    "onRequest": "Price on request",
+    "from": "from",
+    "qty": "Quantity",
+    "less": "Remove one",
+    "more": "Add one",
+    "units": {
+      "unit": "each",
+      "pair": "per pair",
+      "set": "per set",
+      "guest": "per guest",
+      "weekend": "per weekend"
+    },
+    "qtyUnits": {
+      "unit": "",
+      "pair": "pair(s)",
+      "set": "set(s)",
+      "guest": "guests",
+      "weekend": ""
+    },
+    "cleaning": "Tableware cleaning: €{clean} if returned clean, €{dirty} if returned dirty.",
+    "hdPhoto": "Temporary photo",
+    "pageTitle": "Event equipment hire in Rouen",
+    "pageIntro": "Furniture, decor, tableware and catering equipment for weddings, engagements, christenings and birthdays. Prices are per item, excluding delivery and set-up, which appear on your quote."
+  },
+  "decor": {
+    "kicker": "Decor",
+    "title": "An empty room in the morning, a party by the evening",
+    "intro": "LED bridal stage, flower arches, balloon arches, photo corner, dressed tables: we design the decor with you, set it up before your guests arrive and take it down afterwards.",
+    "before": "Before",
+    "after": "After",
+    "compare": "Drag to compare",
+    "compareLabel": "Compare before and after",
+    "pairs": [
+      "Reception venue"
+    ],
+    "items": [
+      "Oriental bridal stage",
+      "Bridal stage in a marquee",
+      "Photo corner, flower arches",
+      "Name arch",
+      "Bridal stage, LED backdrop",
+      "Heart arch",
+      "Burgundy napkins",
+      "Dusty pink table"
+    ],
+    "cta": "Tell us about your decor",
+    "pageTitle": "Wedding and reception decor in Normandy",
+    "pageIntro": "We decorate venues in Rouen and across Normandy, as well as marquees and homes for smaller weddings.",
+    "listTitle": "What we set up",
+    "list": [
+      "Bridal stage and LED backdrop",
+      "Flower arches and balloon arches",
+      "Photo corner",
+      "Dressed tables, linen and centrepieces",
+      "Cocktail wall and sweet bar",
+      "LED light columns"
+    ],
+    "note": "in your colours"
+  },
+  "catering": {
+    "kicker": "Catering",
+    "title": "A generous table, halal and alcohol-free",
+    "intro": "Our catering service covers weddings, engagements and private receptions. The food is halal and alcohol-free, and it arrives with the tableware and buffets, so you deal with one contact only.",
+    "halal": "Halal",
+    "noAlcohol": "Alcohol-free",
+    "menu": "Menus and prices on request, depending on guest numbers and format (buffet, table service, cocktail).",
+    "pancakeBadge": "New",
+    "pancakeTitle": "The pancake bar",
+    "pancakeText": "Pancakes made on the spot and a toppings counter where everyone builds their own. Children love it as much as adults, from brunch to dessert.",
+    "sweetsTitle": "The sweet bar",
+    "sweetsText": "Two shelved arches and candy jars filled in your colours.",
+    "cta": "Request a catering quote",
+    "pageTitle": "Halal, alcohol-free catering in Rouen",
+    "pageIntro": "A caterer who also brings the tableware, chafing dishes and decor: simpler for you, and everything matches."
+  },
+  "backstage": {
+    "kicker": "Behind the scenes",
+    "seen": "What you see on the day…",
+    "unseen": "What you don't see",
+    "text": "Hours of preparation, careful organisation and every detail thought through. From loading the equipment to setting up, right through to the finishing touches.",
+    "steps": [
+      "Loading",
+      "Delivery",
+      "Set-up",
+      "Finishing touches"
+    ],
+    "video": "Video: from loading the van to the dressed table",
+    "pause": "Pause video",
+    "play": "Play video"
+  },
+  "work": {
+    "kicker": "Our work",
+    "title": "A few receptions set up by the team",
+    "intro": "In venues, marquees or at home, in Rouen and all over Normandy.",
+    "filters": {
+      "all": "All",
+      "mariage": "Wedding",
+      "anniversaire": "Birthday",
+      "bapteme": "Christening",
+      "gender-reveal": "Gender reveal",
+      "mariage-maison": "Wedding at home"
+    },
+    "seeAll": "All our work",
+    "open": "Enlarge photo",
+    "close": "Close",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "pageTitle": "Our work",
+    "pageIntro": "Weddings, birthdays and christenings we have equipped and decorated. Follow us on Instagram for the latest."
+  },
+  "steps": {
+    "kicker": "How it works",
+    "title": "Three steps, then enjoy your day",
+    "items": [
+      {
+        "title": "You choose",
+        "text": "Pick your equipment from the catalogue, or simply describe your event."
+      },
+      {
+        "title": "We send a quote",
+        "text": "With availability, delivery and set-up included, no surprises."
+      },
+      {
+        "title": "We deliver, set up and clear away",
+        "text": "On the day, everything is in place. The next day, we pack up."
+      }
+    ]
+  },
+  "reviews": {
+    "kicker": "Your feedback",
+    "title": "They trusted us with their reception",
+    "intro": "Our clients' feedback is shared in the \"Vos retours\" highlight on Instagram.",
+    "link": "Read the feedback on Instagram"
+  },
+  "faq": {
+    "kicker": "Practical information",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Is a deposit required?",
+        "a": "A security deposit may be requested depending on the items hired. The amount and terms are shown on your quote."
+      },
+      {
+        "q": "How does the return work?",
+        "a": "When we set up, we also take down and collect everything ourselves. For collection orders, the return day and time are agreed when you book."
+      },
+      {
+        "q": "Do you deliver outside Rouen?",
+        "a": "Yes, anywhere in Normandy. Delivery costs depend on distance and volume and are shown on the quote."
+      },
+      {
+        "q": "How far ahead should I book?",
+        "a": "As early as possible for wedding weekends, especially from May to September. For a small hire, a few days is often enough: message us to check availability."
+      },
+      {
+        "q": "Do I need to wash the tableware before returning it?",
+        "a": "No. Cleaning costs €5 if the tableware comes back clean and €8 if it comes back dirty."
+      },
+      {
+        "q": "Is the catering halal?",
+        "a": "Yes, our catering is halal and alcohol-free."
+      }
+    ]
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Tell us about your event",
+    "intro": "Fill in this form: it opens WhatsApp with your message ready to send. You can also call us.",
+    "type": "Type of event",
+    "types": [
+      "Wedding",
+      "Engagement",
+      "Christening",
+      "Birthday",
+      "Gender reveal / baby shower",
+      "Wedding at home",
+      "Corporate event",
+      "Other"
+    ],
+    "date": "Date",
+    "place": "Location (town or venue)",
+    "guests": "Number of guests",
+    "services": "Services needed",
+    "serviceOptions": [
+      "Equipment hire",
+      "Decor",
+      "Catering",
+      "Sweet stations"
+    ],
+    "message": "Your message",
+    "messagePh": "Theme, colours, what you already have…",
+    "name": "Name",
+    "phone": "Phone",
+    "send": "Send via WhatsApp",
+    "required": "Required field",
+    "callUs": "Call us",
+    "follow": "Follow us",
+    "zone": "Rouen and all of Normandy",
+    "waIntro": "Hello Signature Event, I would like a quote.",
+    "waLabels": {
+      "type": "Event",
+      "date": "Date",
+      "place": "Location",
+      "guests": "Guests",
+      "services": "Services",
+      "name": "Name",
+      "phone": "Phone",
+      "message": "Message"
+    }
+  },
+  "cart": {
+    "title": "My selection",
+    "empty": "Your selection is empty. Add items from the catalogue.",
+    "browse": "Browse the catalogue",
+    "total": "Estimated total",
+    "totalNote": "Excluding delivery, set-up and items priced on request. Your final quote is sent once availability is confirmed.",
+    "remove": "Remove",
+    "event": "Your event",
+    "date": "Event date",
+    "place": "Location (town or venue)",
+    "mode": "Delivery or collection",
+    "delivery": "Delivery and set-up",
+    "pickup": "Collection",
+    "name": "Name",
+    "phone": "Phone",
+    "notes": "Details (optional)",
+    "sendWa": "Send my request",
+    "sendWaSub": "via WhatsApp",
+    "sendMail": "Send by email",
+    "sending": "Sending…",
+    "sent": "Request sent. We will get back to you shortly.",
+    "error": "Sending failed. Please use WhatsApp or call us.",
+    "pay": "Pay the deposit online",
+    "items": "{n} item(s)",
+    "added": "{name} added to your selection",
+    "waIntro": "Hello Signature Event, here is my booking request:",
+    "waTotal": "Estimated total",
+    "waLabels": {
+      "date": "Date",
+      "place": "Location",
+      "mode": "Delivery",
+      "name": "Name",
+      "phone": "Phone",
+      "notes": "Details"
+    },
+    "askPriceMsg": "Hello Signature Event, could you tell me the hire price for: {name}?"
+  },
+  "footer": {
+    "signature": "The art of hosting, a taste for excellence.",
+    "slogan": "Making every moment an unforgettable celebration",
+    "zone": "Rouen and all of Normandy",
+    "explore": "Explore",
+    "contact": "Contact",
+    "legal": "Legal notice",
+    "rights": "All rights reserved.",
+    "events": "Weddings · Engagements · Christenings · Birthdays · Gender reveals · Baby showers · Corporate events"
+  },
+  "legal": {
+    "title": "Legal notice",
+    "editorTitle": "Publisher",
+    "editor": "SIGNATURE EVENT — Rouen (76), France. Company name, address and SIRET number to be added. Phone: +33 7 83 53 58 11.",
+    "hostTitle": "Hosting",
+    "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, USA.",
+    "dataTitle": "Personal data",
+    "data": "Information entered in the forms is used only to prepare your quote. It is sent by WhatsApp or email when you submit it and is not stored on this website. Your selection is kept in your browser. You can ask for your data to be deleted by contacting us.",
+    "photosTitle": "Photos",
+    "photos": "All photos show events by Signature Event.",
+    "back": "Back to home"
+  },
+  "wa": {
+    "float": "Message us on WhatsApp",
+    "default": "Hello Signature Event, I would like some information about my event."
+  },
+  "media": {
+    "hero": "Reception room dressed by Signature Event, round tables and Napoleon chairs",
+    "services": [
+      "Napoleon Crystal chairs around burgundy-clothed tables",
+      "Illuminated oriental bridal stage",
+      "Buffet of canapés and verrines",
+      "Signature Event pancake bar and toppings"
+    ],
+    "decor": [
+      "Oriental bridal stage with illuminated arches",
+      "Bridal stage in a marquee, burgundy drapes",
+      "Photo corner with pink and white flower arches",
+      "Custom arch with the guest of honour's name",
+      "Bridal stage with LED panels",
+      "Large heart-shaped arch",
+      "Burgundy napkins on gold-rim plates",
+      "Dusty pink table, gold-rim plates and flowers"
+    ],
+    "pairs": [
+      [
+        "Empty room before set-up",
+        "The same room dressed for the reception"
+      ]
+    ],
+    "catering": [
+      "Buffet of savoury and sweet bites",
+      "Pancake bar and toppings",
+      "Dressed table, gold-rim tableware"
+    ],
+    "backstage": [
+      "Stacks of plates ready to load",
+      "Flowers and decor packed for transport",
+      "Napoleon chairs loaded into the van",
+      "Setting out chairs in the venue",
+      "Detail of a finished table"
+    ],
+    "logo": "Signature Event"
+  }
+}
